@@ -58,3 +58,5 @@ To completely reset the cache and prior builds, simply run:
 Tests can be run through ``npm`` in the root directory:
 
     npm run test
+
+If yo have some questions in this project, feel free to reach out
